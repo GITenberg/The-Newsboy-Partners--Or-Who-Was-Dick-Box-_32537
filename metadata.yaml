@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '1955'
     url: http://www.gutenberg.org/2009/agents/1955
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32537#The-Newsboy-Partners--Or-Who-Was-Dick-Box-
 gutenberg_issued: '2010-05-25'
 gutenberg_type: Text
 identifiers:
